@@ -13,7 +13,7 @@ void speaks, if you listen.
 
 ---
 
-### things i made
+### things I made
 
 | project | desc |
 |---------|------|
@@ -27,8 +27,5 @@ void speaks, if you listen.
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEKEWANG&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" />
 
 ---
-
-> *The story begins: So, this is the world.*
-> *The story ends: So, this is life.*
 
 </div>
